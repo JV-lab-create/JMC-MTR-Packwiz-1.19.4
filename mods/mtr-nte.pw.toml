@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/8pXSjgW8/versions/JcADLY4p/MTR-NTE-0.5.2%2B1.19.4.jar"
-hash-format = "sha1"
-hash = "32b8fafe4240b8bc266efd19053bdbb4af1e241d"
+hash-format = "sha512"
+hash = "d61bb5bb31ad1feecf97fdd91231170368b5943b08100ab79ec1b5fddc6faa770de0cc08466beae9a5f84a64240a159b8cac466c8bc9afe45ad3c326ec4918a6"
 
 [update]
 [update.modrinth]

@@ -89,6 +89,16 @@ file = "mods/RPHelper-1.1.5.jar"
 hash = "89ad8b2791169397e486c8fcda154f0e3433b36275f6a833b5283793c0e4a847"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "34c16397b25b263eb55435eaf1ae758d6747da76fb7319734df0f92725c165cc"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "33e50f03471b98a1474127ef48903cdd4dbd0a28e61c80260eeeaa3c6ee60230"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "b0007dfe3723c584b23c4d8ab61dce58212565abfdcf3f171ff8bf961342d10c"
 metafile = true
@@ -100,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c419054516c521d0942ad8bbc716c4b819022634eafc25c4c97857ea919944b1"
+hash = "fac4e50fc5de70633f2850b6eb77ea0741257b7ba6d23b0dbe84965188c3bcf8"
 metafile = true
 
 [[files]]
@@ -124,6 +134,11 @@ hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "cab80e4175b4758991d4a929a763ffd117ef578d065fbcca33dbc8456e8493ce"
+metafile = true
+
+[[files]]
 file = "mods/customhud.pw.toml"
 hash = "e9df207723ef5b171150d1c7a30d8da54a43e6a0dc1461f564396d36fc632c14"
 metafile = true
@@ -140,12 +155,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5197e9172dd9a9b06303b85a837e7a044b71c005b3d0003aa19041a253daf541"
+hash = "b01b73b7e30086bd19fb8c290ecd54fe3048432d4a17db21434bb8ef70eced7b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "1f5d80bccee13ecf7042644d74b32ddb45e47a2bc28b6da8aabe58620ac7fe87"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "733b79997ef3d01d770debe965733ef0e93a7f28010913b1b8bd2346a9bb4d06"
 metafile = true
 
 [[files]]
@@ -155,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/freecam.pw.toml"
-hash = "01d387e74048a56e3270f9018d57196bfb9f4476d386e7c2a22ac73f35f48de8"
+hash = "f09abcfcb3f724ffd4b036ae0cd199c4d8180341a3de015907487379f8ff0b1c"
 metafile = true
 
 [[files]]
@@ -170,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "865ffbf85ebd23860b712a6c0bd1857d0816c36415443a5e32d9aa385ff625d4"
+hash = "2e704e5192aaeafcfad96da3bca1ed35268f3b09beb9f91f398530a2596ee16d"
 metafile = true
 
 [[files]]
@@ -180,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
+hash = "2b89931c136a95ec10a357e12d75faa9e8c9c5405c2a43ad5b1d3ba0318e9a10"
 metafile = true
 
 [[files]]
@@ -195,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "5731d6f6b7e80dc61d88b85e366750b3c5f4a063c54af83d5e782792052decfc"
+hash = "52cf50f3e3eb4fb4bced9d437ce06e7db5f2d069dd6debe64656336d525e8db0"
 metafile = true
 
 [[files]]
@@ -210,7 +230,12 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+hash = "78abf7fccb5086b0a7353916b8e61cf52333743425f3f1f925ff5764881114fa"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "8b005c6aeecb468fd598adedb97645b7ed81278011a20367e4ed4452c9f9a1d8"
 metafile = true
 
 [[files]]
@@ -235,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-nte.pw.toml"
-hash = "22e4bb0bde531b78f5ae642dd2b87c147ea116da03bf6a768b7ce724711cc0a2"
+hash = "77c78b59b3b6c8a90ee0126ab749cf966dc690e0c98400ec09832cdf12197206"
 metafile = true
 
 [[files]]
@@ -245,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+hash = "9d8f4ebc003095880b258cf8cc6923ca5261e1d8039f0d3c3eef1f9e31a1ae34"
 metafile = true
 
 [[files]]
@@ -355,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+hash = "f5e867e1ec8b1cfc0453a690c53be70948c261b3b6d0c90743a22ba0ef1fa748"
 metafile = true
 
 [[files]]
