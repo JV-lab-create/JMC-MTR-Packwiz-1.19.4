@@ -1,0 +1,15 @@
+name = "MTR-OTP"
+filename = "MTR-OTP-1.1.0+mc1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DistrictOfJoban/MTR-OTP/releases/download/1.1.0/MTR-OTP-1.1.0%2Bmc1.19.4.jar"
+hash-format = "sha256"
+hash = "43f6548759d9f8eea3e4ed904f40106357d812954ad6f225051fd9e216b312b4"
+
+[update]
+[update.github]
+branch = "main"
+regex = "mc1.19.4"
+slug = "DistrictOfJoban/MTR-OTP"
+tag = "1.1.0"

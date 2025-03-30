@@ -1,0 +1,6 @@
+{
+  "rigid_catenary_segment_length": 1,
+  "yuuni_pids_max_view_distance": 256,
+  "railway_sign_max_view_distance": 256,
+  "custom_text_sign_max_view_distance": 256
+}

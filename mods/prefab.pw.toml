@@ -1,0 +1,7 @@
+name = "prefab"
+filename = "prefab-fabric-4.3.3.jar"
+
+[download]
+url = "https://github.com/DistrictOfJoban/MC-Prefab-Fabric/releases/download/v4.3.3/prefab-fabric-4.3.3.jar"
+hash-format = "sha256"
+hash = "7bb845d9c0968beeee35cf42661137c99d60b62a1aa3f3645bfce7b4d651e752"

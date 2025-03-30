@@ -1,0 +1,285 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/betterf3.json"
+hash = "a75a673bf7de410f77fc9d3654d907532fa2638a12f708f861cadaacb41ddf27"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "f472ccb5001adae92414a72b8f6d77e8a1cef5db744288b19384f99f7ce9012f"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "24e30e4bc37f445b1af5a52dc0c70830f2559abaa5b840721062ce6bb852b8ae"
+
+[[files]]
+file = "config/iris.properties"
+hash = "5c6270b9ad53d533670715fe4ba758962b6a2d13c8ca011a0b3f5255350fbce8"
+
+[[files]]
+file = "config/jsclient.json"
+hash = "c6e2e3f0645a1b60b213b0a7387887479761047b7b0750250361d359795ae413"
+
+[[files]]
+file = "config/languagereload.json"
+hash = "f7e7bcf04bb86d5fb12c24286be3ab4a738c4274012cbb1f4e44045450386a60"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "0ccaa37d25ec38a67fb5d1c032f2f45a21a867a708acbfd57a9ae0dfa2772d08"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "dd673da9cb20f63e5698ec77bfb112fdcecb58c22f55015b797c03adff04471c"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "2feaf2a48c484152dcb59304cfda440ff99719653663ca8de725d1846429c962"
+
+[[files]]
+file = "config/msd.json"
+hash = "11018858725322efa1addd712386144cb99dfd72019506e7ea2a74fe58209a25"
+
+[[files]]
+file = "config/mtr.json"
+hash = "7cff8490b8b94ef969ff6a280c9c015201869d0d21da06533d24096419567631"
+
+[[files]]
+file = "config/mtrotp.json"
+hash = "283043a2143078ee6e6f22ee3824a92d896074103fdf7a730ae994bf723602ba"
+
+[[files]]
+file = "config/mtrsteamloco.json"
+hash = "6169b43f46ede09140d2d910eeaa4f5aca53ad56b0f29ced5d1d8826e8d127e3"
+
+[[files]]
+file = "config/rphelper/config.json"
+hash = "d7d01d8c46acecd94be53dc627c7d843b4b57f94c0a9c22630c45129147e5724"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "272ac0df1d2c1cab549d3a3d16deca1d59cbff00637c1a3d4be613b5193f6f2c"
+
+[[files]]
+file = "config/slideshow.json"
+hash = "bc17205cd9ec9a4d0e91391fb524a8c7366be0153d07e66cfd2c91c623cee844"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "4d8a8f902a5cc765e8f854e78f008d98887388b3f33eabd6a81cd1a4ccbad34a"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "d5c19cf9aa9932776bb320a62469109b449d5c1320fd83ed058c682a44ddd097"
+
+[[files]]
+file = "config/timeoutout.json"
+hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
+
+[[files]]
+file = "mods/RPHelper-1.1.5.jar"
+hash = "89ad8b2791169397e486c8fcda154f0e3433b36275f6a833b5283793c0e4a847"
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "b0007dfe3723c584b23c4d8ab61dce58212565abfdcf3f171ff8bf961342d10c"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "d469a35eec654e0cf02d7bddc95a8ff8e694898ffcd44798a7128847fa4db796"
+metafile = true
+
+[[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "b6250ee33e7d4d784b60288146a1982bca6c7b4fa2e58f6f05712524c00b1e04"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "4dc497266db50e025293b5ff6c41cc188e945ffdf2cd738ca376debeebe954c9"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "6ac4fa089721e53f99b2c6bf2deee7d5d256391a220403f8ef88c7ac42f46df7"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "6d08bb598b04ab1cbeadf1f1cea0189560336991db5f8b1bd960151d51527ad8"
+metafile = true
+
+[[files]]
+file = "mods/gcaps-fabric.pw.toml"
+hash = "38ef7f5a1cb7212e00726117f04d579ad84589f9a9f1e97f4263b15b7030e765"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "af5457a21447e7145c103f6709f792f702744874a88c7d5a8bfb16bbf7c8285a"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "37631fce6ed1f5b1469a32300ed8abb71390984190aa3238b31e6b2becb77359"
+metafile = true
+
+[[files]]
+file = "mods/jcm.pw.toml"
+hash = "fcdbdb2c34e45fa35ccf9a2711cd0a2f0ccb92cc1a356800c8469b6a86c5b9f4"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "f2c7dab31a452a231039f417a60de697dd3bb8512316b58ab9d16fc7c1a26a0e"
+metafile = true
+
+[[files]]
+file = "mods/list-entry-highlight-fix.pw.toml"
+hash = "96636a1a34c3e18d17974c59fb0aa31d269cd939b8aca89587cc3b219eba8192"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-transit-railway.pw.toml"
+hash = "53382a236d02e54fa5f4d0bc74ff4f30522913e13ac23c48045ad1f2577e2a0b"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "cb84b71fadc7abf51f5441681a32e934fe551e3d98f33e8f4c60c8563a579c0f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "d18d104455a86bebd3f29deaf3458258674ea053d96e7b8fb5711cfea227fc20"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/mtr-nte.pw.toml"
+hash = "cdfe315944e0456ca921c4a9fb72af24e7d882d78882ad793649e1484465ce74"
+metafile = true
+
+[[files]]
+file = "mods/mtr-otp.pw.toml"
+hash = "29b755bcdc7dd4c4adaffa7e098e398d72f160c7d6e416a9b40dc25800462d60"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
+metafile = true
+
+[[files]]
+file = "mods/paragraphs.pw.toml"
+hash = "b98e202aa188cc46dd42b82e7f155653bb0eac9676bc294e28bd30cda29f381d"
+metafile = true
+
+[[files]]
+file = "mods/prefab.pw.toml"
+hash = "5ca191965129648d19850bbe8d52a03437e24d1665dff0823c0c0d9dd0fc710d"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "c6a373e55a71f32e115032a8abd85c6bc2086f442af244a1704c08cb4c197ac6"
+metafile = true
+
+[[files]]
+file = "mods/slideshow.pw.toml"
+hash = "b24a0f099c89c79a0851f268c90534a35fb7102fa7183f0808b93c9f2ea12cf3"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "3bb7d26e67dc8309e99535af81be746dd38e706f062de4046ef4c564ed7dc69d"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/station-decoration.pw.toml"
+hash = "af2ca29caf5ddd98dc227428e1a52a58499d79b80e67a5de508177d3c95b4b61"
+metafile = true
+
+[[files]]
+file = "mods/the-tube.pw.toml"
+hash = "399249e5d32517c3ec7441fa6071667827547c3475e6e8d7cb62e55af63c7a82"
+metafile = true
+
+[[files]]
+file = "mods/time-wind.pw.toml"
+hash = "bf87ebad51e661a2bf6216cd003bb61886c4b8f5d29194583a6a69a1eb4a7c60"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "280c8047494f45ed541b9b12439b684b203031ba75a779d0f5cd3cac4542af69"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "76262ae83e45259425577a35d7ce8c8d65fa3afe67ab16deaac6cbc67efe494e"
+metafile = true
+
+[[files]]
+file = "mods/wi-zoom.pw.toml"
+hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "e449abb8fc398c080580d67570d48cc58179ef9e6650098feecd36db69ad20ce"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "3939dbb5b4c2e0274e3d07548979e6e0dcb9e7f3cd13e92947727b48487636cd"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5bfb13f635be0b9ce55bfcabe049aab443cf1204baa0447573169e5d50d80ce3"
+metafile = true

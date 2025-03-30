@@ -1,0 +1,15 @@
+name = "gcaps-fabric"
+filename = "gcaps-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/DistrictOfJoban/gcaps-fabric/releases/download/1.0.0%2B1.19.4/gcaps-1.0.0.jar"
+hash-format = "sha256"
+hash = "c1ab3b5a2fcbbaf8aab752a73f70d70b2e19ee006ffe344bb97c4e2757f29a3a"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "DistrictOfJoban/gcaps-fabric"
+tag = "1.0.0+1.19.4"

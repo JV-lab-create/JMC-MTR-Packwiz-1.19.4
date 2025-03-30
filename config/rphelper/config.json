@@ -1,0 +1,24 @@
+{
+  "packs": [
+    {
+      "sourceUrl": "https://github.com/JV-lab-create/Server-Resorucepack/releases/download/v1.0.0/Server-Resorucepack.zip",
+      "sha1": "https://raw.githubusercontent.com/JV-lab-create/Server-Resorucepack/refs/heads/main/sha1.txt",
+      "fileName": "JMC MTR Custiom Resources.zip",
+      "name": "JMC MTR Custiom Resources"
+    }
+  ],
+  "requestTimeoutSec": 10,
+  "appearance": {
+    "normal_texture": "rphelper:textures/normal_texture.png",
+    "error_texture": "rphelper:textures/error_texture.png",
+    "icon_texture": "rphelper:textures/icon_texture.png",
+    "icon_size": 25,
+    "normal_title_color": "0xFFFFFF",
+    "normal_description_color": "0xFFFFFF",
+    "error_title_color": "0xFF0000",
+    "error_description_color": "0xFF0000",
+    "width": 180,
+    "height": 32,
+    "duration": 5000
+  }
+}
