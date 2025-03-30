@@ -58,7 +58,7 @@ hash = "6169b43f46ede09140d2d910eeaa4f5aca53ad56b0f29ced5d1d8826e8d127e3"
 
 [[files]]
 file = "config/rphelper/config.json"
-hash = "d7d01d8c46acecd94be53dc627c7d843b4b57f94c0a9c22630c45129147e5724"
+hash = "ea7e925ff461c7f9454eca76b125de4b05470cce98efc31f5fb2a5c76732a963"
 
 [[files]]
 file = "config/rrp.properties"
@@ -82,7 +82,7 @@ hash = "09b5941acf87fd7182725fe3eb156e3f58618ddd1685613b377f9e17fdc95d2a"
 
 [[files]]
 file = "mods/RPHelper-1.1.5.jar"
-hash = "89ad8b2791169397e486c8fcda154f0e3433b36275f6a833b5283793c0e4a847"
+hash = "4127acbd19804a8afc35cc0bfdc6cd2cf8c95441d81b7c296f485db46b3f1349"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
