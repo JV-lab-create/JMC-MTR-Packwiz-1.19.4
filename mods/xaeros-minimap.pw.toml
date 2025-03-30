@@ -1,17 +1,17 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_24.2.0_Fabric_1.19.1.jar"
-side = "both"
+filename = "Xaeros_Minimap_25.2.0_Fabric_1.19.4.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/73eENOzt/Xaeros_Minimap_24.2.0_Fabric_1.19.1.jar"
-hash-format = "sha1"
-hash = "de0ff8289941768cd154736ecd58ba949ef123da"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/FAzQp3Fd/Xaeros_Minimap_25.2.0_Fabric_1.19.4.jar"
+hash-format = "sha512"
+hash = "1cee36ef5c881d65334566254627a3af2ffd2832abd61654b5a3f6568330745ebc035511d1fa66412e62445e0f54968522890b7e5ee9893eb99a09135a21d7d2"
 
 [update]
 [update.modrinth]
 mod-id = "1bokaNcj"
-version = "73eENOzt"
+version = "FAzQp3Fd"
 
 [option]
 optional = true
-description = "A minimap. It also enables setting waypoints on the world map.\n小地圖。同時要安裝它才可以在大地圖上設置路徑點。\n"
+description = "Minimap to help you navigate around Joban!"
