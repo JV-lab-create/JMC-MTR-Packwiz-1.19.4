@@ -1,13 +1,13 @@
 name = "Russian Metro Addon"
-filename = "MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4+1.19.4.jar"
+filename = "MTR-Russian-Metro-Addon-fabric-1.19.4-3.2.2-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TiXnKmME/versions/80uDyx6V/MTR-Russian-Metro-Addon-fabric-4.0.0-2.0.0-beta-4%2B1.19.4.jar"
+url = "https://cdn.modrinth.com/data/TiXnKmME/versions/lcXCsNM2/MTR-Russian-Metro-Addon-fabric-1.19.4-3.2.2-1.1.0.jar"
 hash-format = "sha512"
-hash = "049679ad917ca1165f340dda2b5092815594f442fb8ced68bbf1f557d8c73830e5c67383458d7c5f674b670deb8dfc48021ec1dabc971ba52a47392585386818"
+hash = "75d1275478e9a28bf88e11e1341e642777021974f77949d105b7cd15ba29b2e0e7a3f9a311686507ec6bec9e3f9b977fe15d3baeefb052705a671a0f93b30588"
 
 [update]
 [update.modrinth]
 mod-id = "TiXnKmME"
-version = "80uDyx6V"
+version = "lcXCsNM2"

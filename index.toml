@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
-hash = "2950a47e60c56ab0772aff305bb89c5fe9fb76894d2c4eb4992c8d1f061bcd46"
+hash = "cc4a99a921726d47e24e9404d65065549b48cc158744d015ec2b72f4b11db59f"
 metafile = true
 
 [[files]]
