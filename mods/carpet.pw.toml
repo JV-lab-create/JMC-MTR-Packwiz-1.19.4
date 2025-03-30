@@ -1,17 +1,22 @@
 name = "Carpet"
-filename = "fabric-carpet-1.19.4-1.4.101+v230319.jar"
+filename = "fabric-carpet-1.19.2-1.4.84+v221018.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = """
+[[ For Builders 建築者用 ]]
+Allows you to no-clip when flying in creative mode.
+在創造模式下飛行時可以穿墻。
+"""
+
 [download]
-url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/p5SN7luf/fabric-carpet-1.19.4-1.4.101%2Bv230319.jar"
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/SaOHo2Ac/fabric-carpet-1.19.2-1.4.84%2Bv221018.jar"
 hash-format = "sha1"
-hash = "a803dd477c1704acd3501ded6813f13d72852280"
+hash = "9a88c3a004b15b1f776c988d8eae1cc191b4fbee"
 
 [update]
 [update.modrinth]
 mod-id = "TQTTVgYE"
-version = "p5SN7luf"
-
-[option]
-optional = true
-description = "For Builder; Allows you to clip through walls in creative"
+version = "SaOHo2Ac"
