@@ -29,6 +29,10 @@ file = "config/languagereload.json"
 hash = "f7e7bcf04bb86d5fb12c24286be3ab4a738c4274012cbb1f4e44045450386a60"
 
 [[files]]
+file = "config/mca.json"
+hash = "50fd012c7c0fc2ccd544dccbf784255d05fe93448e4b3089543eaf7ffb1bfaa7"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "0ccaa37d25ec38a67fb5d1c032f2f45a21a867a708acbfd57a9ae0dfa2772d08"
 
@@ -309,9 +313,8 @@ hash = "b98e202aa188cc46dd42b82e7f155653bb0eac9676bc294e28bd30cda29f381d"
 metafile = true
 
 [[files]]
-file = "mods/player-roles.pw.toml"
-hash = "f0f193e401fdc70048af290a5de3a3775e3dc80d059fda728bf5d7a1e3700035"
-metafile = true
+file = "mods/player-roles-1.6.4.jar"
+hash = "6a997119667e7f0347a072e7ad7acfc4b985f859bb0a5818ec7a33f7db95421e"
 
 [[files]]
 file = "mods/prefab.pw.toml"
@@ -359,6 +362,10 @@ hash = "3bb7d26e67dc8309e99535af81be746dd38e706f062de4046ef4c564ed7dc69d"
 metafile = true
 
 [[files]]
+file = "mods/squaremap-fabric-mc1.19.4-1.1.13.jar"
+hash = "9429f95767bf7465684b01ee40c126d9f03a2f4a1eb1bd2106393c0418610ddf"
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
@@ -401,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
 
 [[files]]
