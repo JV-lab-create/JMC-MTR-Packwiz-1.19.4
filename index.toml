@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-hash = "c928dba79421dfb62ab6d164660af66350fdc7a73a5f0994eacd7a2a8d427597"
+hash = "f0f193e401fdc70048af290a5de3a3775e3dc80d059fda728bf5d7a1e3700035"
 metafile = true
 
 [[files]]

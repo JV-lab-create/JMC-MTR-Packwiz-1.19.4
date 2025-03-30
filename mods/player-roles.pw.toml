@@ -11,7 +11,3 @@ hash = "eaaae28b3e7eab26ecc52128610c228c734e074efd9e57571e9dbb74b4f6ecf56f43336d
 [update.modrinth]
 mod-id = "Rt1mrUHm"
 version = "W9OSM1WK"
-
-[option]
-optional = true
-description = "used on Server"
