@@ -100,6 +100,11 @@ hash = "b0007dfe3723c584b23c4d8ab61dce58212565abfdcf3f171ff8bf961342d10c"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "701ceaa709d4d3b3669b02afacf7a4ad5999f3326e621556d22d41a8faca411a"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "d469a35eec654e0cf02d7bddc95a8ff8e694898ffcd44798a7128847fa4db796"
 metafile = true
@@ -135,6 +140,11 @@ hash = "cab80e4175b4758991d4a929a763ffd117ef578d065fbcca33dbc8456e8493ce"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "9f0c56376ee082e470c24ce21dbd7b440bc6c7b7f0de26cdfdb7f3de25e7226a"
+metafile = true
+
+[[files]]
 file = "mods/customhud.pw.toml"
 hash = "e9df207723ef5b171150d1c7a30d8da54a43e6a0dc1461f564396d36fc632c14"
 metafile = true
@@ -147,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "a05e982896343a5ecd0211f3e5bcf6ebe4ec539d4885ab2b02e9ca0c638a2ead"
 metafile = true
 
 [[files]]
@@ -185,6 +200,11 @@ hash = "38ef7f5a1cb7212e00726117f04d579ad84589f9a9f1e97f4263b15b7030e765"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4507f637a7457f3f9e7de4b527239ce562fe840f6ddb4d85e5052bc12d02cf9e"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e704e5192aaeafcfad96da3bca1ed35268f3b09beb9f91f398530a2596ee16d"
 metafile = true
@@ -202,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/jcm.pw.toml"
 hash = "fcdbdb2c34e45fa35ccf9a2711cd0a2f0ccb92cc1a356800c8469b6a86c5b9f4"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "6fea9fc46230a74793e80fbb51e2eb3994955585037932d8a114ecbc0ba8ae88"
 metafile = true
 
 [[files]]
@@ -255,6 +280,11 @@ hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "8081b8cb96001e8327cb30fef09695bbea32a2ef3aa6f06bf4c1ace8467ab011"
+metafile = true
+
+[[files]]
 file = "mods/mtr-nte.pw.toml"
 hash = "77c78b59b3b6c8a90ee0126ab749cf966dc690e0c98400ec09832cdf12197206"
 metafile = true
@@ -277,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/paragraphs.pw.toml"
 hash = "b98e202aa188cc46dd42b82e7f155653bb0eac9676bc294e28bd30cda29f381d"
+metafile = true
+
+[[files]]
+file = "mods/player-roles.pw.toml"
+hash = "f0f193e401fdc70048af290a5de3a3775e3dc80d059fda728bf5d7a1e3700035"
 metafile = true
 
 [[files]]
@@ -340,6 +375,16 @@ hash = "af2ca29caf5ddd98dc227428e1a52a58499d79b80e67a5de508177d3c95b4b61"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "eb820b741d1685aaed2c9e435767743f901a12f3de740555a45e4b9c46e54c7b"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "82a48b0a727b65ac10b6af29d2c66d0e8bca1cd2b22daea54b8af210eba8b95c"
+metafile = true
+
+[[files]]
 file = "mods/the-tube.pw.toml"
 hash = "399249e5d32517c3ec7441fa6071667827547c3475e6e8d7cb62e55af63c7a82"
 metafile = true
@@ -362,6 +407,11 @@ metafile = true
 [[files]]
 file = "mods/wi-zoom.pw.toml"
 hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
+metafile = true
+
+[[files]]
+file = "mods/womps-crayfish-mod.pw.toml"
+hash = "e4a93e46ef4a353a30875ed8b9b320e6d7ea60f5b9cccca6679e579c4b617fc2"
 metafile = true
 
 [[files]]

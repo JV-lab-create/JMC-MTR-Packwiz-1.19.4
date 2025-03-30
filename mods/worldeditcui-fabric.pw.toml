@@ -14,4 +14,4 @@ project-id = 402098
 
 [option]
 optional = true
-description = "For Builder; A visual representation of your WorldEdit area"
+description = "A visual representation of your WorldEdit area"

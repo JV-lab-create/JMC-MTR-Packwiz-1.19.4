@@ -1,0 +1,13 @@
+name = "Terralith"
+filename = "Terralith_1.19.4_v2.3.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/IWVbiEbl/Terralith_1.19.4_v2.3.12.jar"
+hash-format = "sha512"
+hash = "dafe9eacc7c68902c3b97de5bc3c01244b646b8bbc4d82174677baecc11ed862ca0f1b5cbc6057443aae171e32faac4d66271baf98c3ef87b8d03c61279a2102"
+
+[update]
+[update.modrinth]
+mod-id = "8oi3bsk5"
+version = "IWVbiEbl"

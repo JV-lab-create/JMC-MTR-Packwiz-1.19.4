@@ -1,0 +1,13 @@
+name = "Oh The Biomes You'll Go"
+filename = "Oh_The_Biomes_You'll_Go-fabric-1.19.4-4.0.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uE1WpIAk/versions/FozHevrz/Oh_The_Biomes_You%27ll_Go-fabric-1.19.4-4.0.1.3.jar"
+hash-format = "sha512"
+hash = "4eb25a78b97f5cbdc4a23768bf604ed41b06380a5ebbc345cfb0bc3ca962ef60ea18e78bd20945640aa228501afed6742848c0029dffab544800c4da2e6ee382"
+
+[update]
+[update.modrinth]
+mod-id = "uE1WpIAk"
+version = "FozHevrz"
