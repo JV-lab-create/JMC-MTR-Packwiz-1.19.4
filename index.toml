@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "6fea9fc46230a74793e80fbb51e2eb3994955585037932d8a114ecbc0ba8ae88"
+hash = "e26b4e74c58d6b1a78a73da173c5b92b17d772093c402bdfa0d06893952e36d2"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "8081b8cb96001e8327cb30fef09695bbea32a2ef3aa6f06bf4c1ace8467ab011"
+hash = "7cf7a9670ab28c61b74868f3aad16dc3b361b21ac40c573b1e1e4dd5ff96a485"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/player-roles.pw.toml"
-hash = "f0f193e401fdc70048af290a5de3a3775e3dc80d059fda728bf5d7a1e3700035"
+hash = "c928dba79421dfb62ab6d164660af66350fdc7a73a5f0994eacd7a2a8d427597"
 metafile = true
 
 [[files]]
@@ -322,11 +322,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
-metafile = true
-
-[[files]]
-file = "mods/rphelper.pw.toml"
-hash = "253bde1acc34de64501706aa8e17f5a0d28ec503fdf16e5e1f854a536ae18775"
 metafile = true
 
 [[files]]
@@ -410,18 +405,13 @@ hash = "c4f5ce92bad290735ff7bd4e17dc31cae9d296b690740285717eb72782d58c80"
 metafile = true
 
 [[files]]
-file = "mods/womps-crayfish-mod.pw.toml"
-hash = "e4a93e46ef4a353a30875ed8b9b320e6d7ea60f5b9cccca6679e579c4b617fc2"
-metafile = true
-
-[[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "e449abb8fc398c080580d67570d48cc58179ef9e6650098feecd36db69ad20ce"
+hash = "376377d206c5b8e565196ae6207fecfb30e7bba96670f195abab8d26321825a9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3939dbb5b4c2e0274e3d07548979e6e0dcb9e7f3cd13e92947727b48487636cd"
+hash = "75d5d80160acc491ef70f7f5c054c9dd5f173562b1a1cac1db219ccc0f7152e0"
 metafile = true
 
 [[files]]
